@@ -1,5 +1,3 @@
-# Starter Code
-
 ## Image Editor using HTML, CSS and JavaScript
 
 This is a simple Image Editor app created using HTML, CSS and JavaScript. It allows you to upload an image and apply various filters to it.
@@ -25,4 +23,3 @@ This is a simple Image Editor app created using HTML, CSS and JavaScript. It all
 - Updating CSS styles using JavaScript
 - Saving the manipulated image using the HTML canvas element
 
-### Built with &hearts; by [RICR](https://ricr.in)
